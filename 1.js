@@ -25,3 +25,6 @@ function toggleMenu() {
     showMenu = false;
   }
 }
+{
+  const menuBtn2 = document.querySelector(".menu-btn");
+}
