@@ -26,5 +26,5 @@ function toggleMenu() {
   }
 }
 {
-  const menuBtn2 = document.querySelector(".menu-btn");
+  const menuBtn2ls = document.querySelector(".menu-btn");
 }
